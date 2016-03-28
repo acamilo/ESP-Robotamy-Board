@@ -2,6 +2,10 @@
 ## ESP8266 Robotics Board ##
 
 The ESP-Robotics-Board is intended for building robots out of old toys.
+![hilights][hilights.png]
+![board][board.png]
+![schematic][schem.png]
+
 
 - ESP8266-12 wifi module
 - Dual L9110 (800ma) H-Bridge ICs
